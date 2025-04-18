@@ -8,16 +8,10 @@ function Footer() {
             </span>
             <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
                 <li>
-                    <a href="https://linkedin.com/in/rajputshashank" className="hover:underline me-4 md:me-6">LinkedIn</a>
+                    <a href="https://linkedin.com/in/uditdev" className="hover:underline me-4 md:me-6">LinkedIn</a>
                 </li>
                 <li>
-                    <a href="https://github.com/rajputshashank003" className="hover:underline me-4 md:me-6">Github</a>
-                </li>
-                <li>
-                    <a href="https://github.com/rajputshashank003/Chess.v.0.2.1" className="hover:underline me-4 md:me-6">Project Repository</a>
-                </li>
-                <li>
-                    <a href="https://linkedin.com/in/rajputshashank" className="hover:underline">Contact</a>
+                    <a href="https://github.com/uditdev1" className="hover:underline me-4 md:me-6">Github</a>
                 </li>
             </ul>
             </div>
